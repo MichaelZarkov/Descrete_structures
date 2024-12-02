@@ -1,2 +1,2 @@
 # Descrete_structures
-**Мои материали по дискретни структури, които съм разписвал.**
+**Notes from the course "Descrete Structures" in FMI.**
