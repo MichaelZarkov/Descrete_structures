@@ -1,2 +1,2 @@
-# Descrete_structures
-**Notes from the course "Descrete Structures" in FMI.**
+# Discrete_structures
+**Notes from the course "Discrete Structures" in FMI.**
